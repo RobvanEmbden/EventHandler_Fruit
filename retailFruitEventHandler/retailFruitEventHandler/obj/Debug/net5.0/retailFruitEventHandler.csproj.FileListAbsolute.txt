@@ -1,0 +1,15 @@
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.csprojAssemblyReference.cache
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.AssemblyInfoInputs.cache
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.AssemblyInfo.cs
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/bin/Debug/net5.0/retailFruitEventHandler.deps.json
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/bin/Debug/net5.0/retailFruitEventHandler.runtimeconfig.json
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/bin/Debug/net5.0/retailFruitEventHandler.runtimeconfig.dev.json
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/bin/Debug/net5.0/retailFruitEventHandler.dll
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/bin/Debug/net5.0/ref/retailFruitEventHandler.dll
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/bin/Debug/net5.0/retailFruitEventHandler.pdb
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.dll
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/ref/retailFruitEventHandler.dll
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.pdb
+/Users/rob/Projects/retailFruitEventHandler/retailFruitEventHandler/obj/Debug/net5.0/retailFruitEventHandler.genruntimeconfig.cache
